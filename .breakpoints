@@ -1,0 +1,40 @@
+{
+  "files": {
+    "Section.cpp": [
+      {
+        "id": "15fe07db-49b1-4b09-9dcb-09c29bdce335",
+        "line": 42,
+        "version": 457,
+        "index": 754
+      }
+    ],
+    "XMLReader.cpp": [
+      {
+        "id": "1a9ac731-788f-4b2d-9544-9e4f43ddc73f",
+        "line": 8,
+        "version": 7334,
+        "index": 139
+      },
+      {
+        "id": "134f1709-5c72-4977-8d85-7ae05f1c184b",
+        "line": 14,
+        "version": 7334,
+        "index": 230
+      }
+    ],
+    "main.cpp": [
+      {
+        "id": "25816eab-9ace-40f2-a22b-81e5628aed46",
+        "line": 16,
+        "version": 3202,
+        "index": 409
+      },
+      {
+        "id": "b03515ee-7212-418a-8744-add9cbaf1a72",
+        "line": 16,
+        "version": 3202,
+        "index": 409
+      }
+    ]
+  }
+}
